@@ -1,0 +1,12 @@
+:root {
+    --pink: hsl(322, 100%, 66%);
+    --light-pink: hsla(321, 100%, 78%, 1);
+    --red: hsl(0, 100%, 63%);
+    --cyan: hsl(192, 100%, 9%);
+    --pale-blue: hsl(210, 100%, 98%);
+    --heading: 'Poppins', sans-serif;
+    --body: 'Open Sans', sans-serif;
+    --thin: 400;
+    --medium: 600;
+    --bold: 700;
+}

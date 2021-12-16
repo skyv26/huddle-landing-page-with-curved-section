@@ -12,8 +12,8 @@ const Newsletter = (props) => {
                 send you spam or pass on your email address
             </FooterParagraph>
             <Form Action=".">
-                <Input Type="text" />
-                <Input Type="submit" Value="Subscribe" />
+                <Input Type="email" aria-label="email" />
+                <Input Type="submit" Value="Subscribe" aria-label="submit" />
             </Form>
         </NewsLetterWrapper>
     );

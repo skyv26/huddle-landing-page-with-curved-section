@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](../src/assests/screenshot.png)
+![](./src/assests/screenshot.png)
 
 ### Links
 
 - Solution URL: [Github Repo.](https://github.com/skyv26/huddle-landing-page-with-curved-section)
-- Live Site URL: [Netlfiy](https://your-live-site-url.com)
+- Live Site URL: [Netlfiy](https://myhuddlecurved.netlify.app/)
 
 ## My process
 
